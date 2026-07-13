@@ -1,12 +1,6 @@
 # I
 
-This repository does not contain I.
-
-It hosts the current public definition of I.
-
-I is a living scientific infrastructure.
-
-This repository is the Public Constitutional Archive of I.
+This repository hosts the current public definition of I: the Public Constitutional Archive of a living scientific infrastructure.
 
 ---
 
@@ -16,11 +10,9 @@ Read the Constitution first. Then read the Manifest. Then read Instrument 000000
 
 ## What is I
 
-I is not a company. Not a project. Not a platform.
-
 I is a distributed scientific infrastructure: a set of open protocols, a community of Hosts, a body of Instruments, and an accumulating record of Observations of the world.
 
-An Instrument in I is not a device. It is a published protocol specification — a precise description of what to measure, how, and in what format. Any conforming device, built anywhere, by anyone, is a realisation of that Instrument. Observations are signed, propagated across independent Hosts, and held permanently. No single failure can destroy the record. The record belongs to no one. It is available to everyone.
+An Instrument in I is a published protocol specification — a precise description of what to measure, how, and in what format. Any conforming device, built anywhere, by anyone, is a realisation of that Instrument. Observations are signed, propagated across independent Hosts, and held permanently, so no single failure can destroy the record. The record belongs to everyone.
 
 ## Repository structure
 
@@ -48,7 +40,7 @@ An Instrument in I is not a device. It is a published protocol specification —
 
 ## How to participate
 
-There is no membership process. No fee. No committee that approves participation.
+Participation requires no membership process, no fee, and no approving committee.
 
 Participation means implementing the protocols and contributing to this repository. A Host that operates a conforming Instrument realisation and propagates signed Observations is a Host. A scientist who submits an Instrument definition via pull request is an Instrument author. A contributor who proposes a protocol revision and argues for it publicly is a protocol contributor.
 
